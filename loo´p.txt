@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contador com for</title>
+</head>
+<body>
+    <h1>Contador de 1 a 10 com Loop For</h1>
+    <script>
+        // Contador usando loop for
+        for (let i = 1; i <= 10; i++) {
+            console.log(i);  // Exibe o número no console
+        }
+    </script>
+</body>
+</html>
